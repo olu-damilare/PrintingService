@@ -8,7 +8,6 @@ import java.io.PrintStream;
 
 public class PrintButtonListener implements ActionListener {
 
-
     private JTextArea textArea;
 
     public PrintButtonListener(JTextArea textArea) {
